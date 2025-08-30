@@ -32,8 +32,14 @@ The dashboard highlights:
 
 ---
 
-## Author
-**Shubham Gaonkar**  
+## How to Open
+- **Option 1:** Download the `.twbx` file from this repository and open it in **Tableau Desktop**.  
+- **Option 2:** View the live version directly via the [Dashboard Link](https://public.tableau.com/views/Book1_17565388278020/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
+
+---
+
+## Author & Profiles
+**Shubham Gaonkar** – shubhamgaonkar2005@gmail.com  
 - [Tableau Profile](https://public.tableau.com/app/profile/shubham.gaonkar)  
 - [LinkedIn](https://www.linkedin.com/in/shubhamgaonkar2005)
 
